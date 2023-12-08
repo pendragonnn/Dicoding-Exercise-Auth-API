@@ -1,0 +1,7 @@
+{
+  "user": "yourdbusertest",
+  "password": "yourdbpasswordtest",
+  "host": "yourdbhosttest",
+  "port": "yourdbporttest,
+  "database": "yourdbnametest"
+}
